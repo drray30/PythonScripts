@@ -1,2 +1,2 @@
 # pythonscripts
-A compilation of basic python scripts for data analysis
+Homework Exercises for the Data Science Boot Camp
